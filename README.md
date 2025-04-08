@@ -66,8 +66,4 @@ Contributions to this project are encouraged. If you find any bugs, have suggest
 * Adding support for more complex operations, such as multiplication and division.
 * Implementing a pipelined ALU for improved performance.
 * Adding status flags to indicate overflow, zero, and negative results.
-* Optimizing the design for specific hardware platforms.
-
-## License
-
-[Specify License (e.g., MIT, GPL, etc.)]
+* Optimizing the design for specific hardware platforms*
