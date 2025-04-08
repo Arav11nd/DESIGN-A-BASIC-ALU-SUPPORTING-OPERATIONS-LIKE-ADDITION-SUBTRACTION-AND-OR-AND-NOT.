@@ -44,7 +44,7 @@ The simulation is performed using Modelsim, a widely used HDL simulation tool. T
 
 ### Tools and Resources
 
-* **Modelsim:** Used for Verilog simulation and waveform analysis.
+* **Modelsim and Xilinx:** Used for Verilog simulation and waveform analysis.
 * **YouTube:** Served as a valuable resource for learning Verilog syntax, simulation techniques, and ALU design principles.
 * **Gemini AI:** Assisted in debugging the Verilog code, identifying potential errors, and improving the overall quality of the design.
 
@@ -67,3 +67,8 @@ Contributions to this project are encouraged. If you find any bugs, have suggest
 * Implementing a pipelined ALU for improved performance.
 * Adding status flags to indicate overflow, zero, and negative results.
 * Optimizing the design for specific hardware platforms*
+
+*output of the task*
+
+
+![Image](https://github.com/user-attachments/assets/e1fcb09f-c523-4ad7-98cd-bb0bac7ad4ed
